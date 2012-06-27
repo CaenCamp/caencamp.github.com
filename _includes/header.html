@@ -1,22 +1,48 @@
 <!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
-
-	<link rel="stylesheet" href="{{ site.baseurl }}/bootstrap.min.css">
-	<link rel="stylesheet" href="{{ site.baseurl }}/css.css">
-</head>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+  
+    <link rel="stylesheet" href="{{ site.baseurl }}/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css.css">
+  </head>
 <body>
 
-	{% if site.baseurl == null %}
-		{% assign linkhome = "/" %}
-		{% else %}
-		{% assign linkhome = site.baseurl %}
-	{% endif %}
+  {% if site.baseurl == null %}
+    {% assign linkhome = "/" %}
+  {% else %}
+    {% assign linkhome = site.baseurl %}
+  {% endif %}
+  {% if page.is_index %}
+    <header class="container" style="margin-top:2em;margin-bottom:2em;">
+      <h1><a href="{{ linkhome }}">{{ site.name }}</a></h1>
+    </header>
+    <div class="container">
+      <div class="row">
+        <div class="span9">
+        
+            <p>Les CaenCamps sont des événements gratuits où l'on parle technique dans une ambiance sympathique et décontractée.</p>
+            <div style="position:relative">
+              <div style="width:300px;height:225px" class="thumbnail span4"><img src="caencamp_thumb.jpeg" title="CaenCamp #3" alt="CaenCamp #3" style="width:300px;"/></div>
+              <div class="well span4">
+                <div style="height:195px;">
+                  <h2 style="vertical-align:top;text-align:center;margin-bottom:1em;display:inline-block;width:300px">Prochain CaenCamp<br />en septembre</h2>
+                  <p style="text-align:center">Nous vous souhaitons un agréable été et de bonnes vacances pour les chanceux !</p>
+                  <h3 style="text-align:center;position:relative;top:20px">Twitter : <a href="http://twitter.com/caencamp">@CaenCamp</a></3>
+                </div>
+              </div>
+            </div>
+        </div>
+        <div class="span3">
+          <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dF9tMFVkVjk3S05KR0cyNkZhUi1hQ2c6MQ" width="200" height="350" frameborder="0" marginheight="0" marginwidth="0" style="margin:0;padding:0;overflow:hidden" class="well">Chargement en cours...</iframe>
+        </div>
+      </div>
+      
+    </div>
+    <div class="container">
+      
+      <h2>Actualités</h2><hr />
+    </div>
+  {% endif %}
 
-	<header>
-	<h1><a href="{{ linkhome }}">{{ site.name }}</a></h1>
-	</header>
-
-	<div class="container">
