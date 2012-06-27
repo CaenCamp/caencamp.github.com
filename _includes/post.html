@@ -7,7 +7,7 @@
   
     <div class="span2 sidebar">
       
-      <h4>{{ post.date | localize: 'long' }}</h4>
+      <h4>{{ post.date | date: "%d/%m/%Y" }}</h4>
       {% if post.author_link %}
         Par <a href="{{post.author_link}}">{{ post.author }}</a>
       {% else %}
