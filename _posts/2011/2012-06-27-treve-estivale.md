@@ -4,19 +4,19 @@ title: Trêve estivale
 layout: default
 categories: Actualités
 author: Clément
-author_link: http://twitter.com/clmntlxndr
+author_link: http://twitter.com/clm_a
 
 ---
 
 **C'est sur cette 4è édition que le CaenCamp prend ses congés.**
 
 
-Cette édition fut de nouveau un beau succès, en présence de [@clmntlxndr](http://www.twitter.com/clmntlxndr) [@f_leguedois](https://twitter.com/f_leguedois) [@Grm](https://twitter.com/Grm) Julien [@Korbik](https://twitter.com/Korbik) [@MaximeGrebauval](https://twitter.com/MaximeGrebauval) [@PierrickRouxel](https://twitter.com/PierrickRouxel) [@smahelin](https://twitter.com/smahelin) [@YaGeek](https://twitter.com/YaGeek) 
+Cette édition fut de nouveau un beau succès, en présence de [@clm_a](http://www.twitter.com/clm_a) [@f_leguedois](https://twitter.com/f_leguedois) [@Grm](https://twitter.com/Grm) Julien [@Korbik](https://twitter.com/Korbik) [@MaximeGrebauval](https://twitter.com/MaximeGrebauval) [@PierrickRouxel](https://twitter.com/PierrickRouxel) [@smahelin](https://twitter.com/smahelin) [@YaGeek](https://twitter.com/YaGeek) 
 
 
 * Sur un format plus "barcamp", [@Grm](http://twitter.com/grm) nous a présenté Active Admin, une interface d'administration pour les applications Ruby on Rails.
 
-* S'en est suivi une démo de Pivotal Tracker par [@clmntlxndr](http://twitter.com/clmntlxndr), l'outil de gestion de projet sur un mode agile.
+* S'en est suivi une démo de Pivotal Tracker par [@clm_a](http://twitter.com/clm_a), l'outil de gestion de projet sur un mode agile.
 
 * Pour terminer [@dridk](http://twitter.com/dridk) nous a improvisé un aperçu du langage QML, permettant la réalisation d'interfaces natives avec Qt5.
 
