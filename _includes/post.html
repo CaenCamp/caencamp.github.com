@@ -1,5 +1,4 @@
 
-<div class="container">
   <div class="row">
     {% if page.is_index %}
       {% assign content = post.content %}
@@ -43,5 +42,7 @@
     </div><!--content-->
   
   </div>
+    {% if page.is_index %}
+    <div class="separator" />
+    {% endif %}
 
-</div>
