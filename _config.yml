@@ -1,5 +1,5 @@
 # Jekyll
-permalink: /:year/:title/
+permalink: /:year/:month/:title/
 paginate: 10 
 exclude: 
 name: CaenCamp
