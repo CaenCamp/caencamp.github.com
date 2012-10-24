@@ -8,4 +8,21 @@ margin-top:2em;
 
 
 }
+/* http://andmag.se/2011/11/responsive-embeds/ */
+.embed-container {
+  position: relative;
+  padding-bottom: 75%; /* 4/3 ratio */
+  padding-top: 30px; /* IE6 workaround*/
+  height: 0;
+  overflow: hidden;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
