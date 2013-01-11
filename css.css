@@ -26,3 +26,27 @@ margin-top:2em;
   height: 100%;
 }
 
+.social-networks {
+  overflow:hidden;
+  width:300px;
+  margin-top:20px;
+}
+.social-networks a {
+  display:block;
+  float:left;
+  height:70px;
+  width:70px;
+  text-indent:-9999em;
+  outline:0;
+}
+.twitter-logo {
+  background:url(/twitter.png) left top no-repeat;
+  margin-right:40px;
+}
+.facebook-logo {
+  background:url(/facebook.png) left top no-repeat;
+  margin-right:40px;
+}
+.google-groupes-logo {
+  background:url(/google-groupes.png) left top no-repeat;
+}
