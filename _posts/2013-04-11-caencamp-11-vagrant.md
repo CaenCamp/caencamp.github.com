@@ -8,8 +8,6 @@ author_link: http://twitter.com/clm_a
 
 ---
 
-.
-
 #### Au programme
 
 [Vagrant](http://www.vagrantup.com) est le chaînon manquant entre [VirtualBox](http://www.virtualbox.org) et les environnements  hétérogènes sur lesquels un développeur amené à travailler pour ses projets.
