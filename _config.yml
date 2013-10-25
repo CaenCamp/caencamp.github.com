@@ -1,6 +1,6 @@
 # Jekyll
 permalink: /:year/:month/:title/
-paginate: 10
+paginate: 3
 exclude: []
 name: CaenCamp
 baseurl:

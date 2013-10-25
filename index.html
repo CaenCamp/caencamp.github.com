@@ -15,20 +15,20 @@ is_index: true
   <ul>
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <li class="previous"><a href="{{ linkhome }}">&larr;</a></li>
+        <li class="previous"><a href="{{ linkhome }}">&larr; Articles plus récents</a></li>
       {% else %}
-        <li class="previous"><a href="{{ site.baseurl }}/page{{ paginator.previous_page }}">&larr; Previous</a></li>
+        <li class="previous"><a href="{{ site.baseurl }}/page{{ paginator.previous_page }}">&larr; Articles plus récents</a></li>
       {% endif %}
     {% else %}
-        <li class="previous disabled"><a href="#">Prev</a></li>
+        <li class="previous disabled"><a href="#">&larr; Articles plus récents</a></li>
     {% endif %}
     <li class="disabled">
-      <a href="#">{{ paginator.page }}</a>
+      <a href="#">Page {{ paginator.page }} / {{ paginator.total_pages }}</a>
     </li>
     {% if paginator.next_page %}
-      <li class="next"><a href="{{ site.baseurl }}/page{{ paginator.next_page }}">Next &rarr;</a></li>
+      <li class="next"><a href="{{ site.baseurl }}/page{{ paginator.next_page }}">Articles plus anciens &rarr;</a></li>
     {% else %}
-        <li class="disabled"><a href="#">Next</a></li>
+        <li class="disabled"><a href="#">Articles plus anciens &rarr;</a></li>
     {% endif %}
   </ul>
 </div>
