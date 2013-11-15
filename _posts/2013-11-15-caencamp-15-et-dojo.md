@@ -70,7 +70,8 @@ Ce Dojo initialement proposé aux étudiants du Campus 2 est ouvert à tous, sur
 
 ### Où, Quand, Comment ?
 
-C'est le Lundi 25/11, les précisions d'accès vous seront transmises par e-mail.
+C'est le Lundi 25/11 à 17h30 au Campus 2.
+Les précisions d'accès vous seront transmises par e-mail.
 
 Nous espérons vous voir nombreux !
 
