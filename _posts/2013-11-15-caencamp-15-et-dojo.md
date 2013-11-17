@@ -19,7 +19,7 @@ Le CaenCamp #15 aura lieu le 21 novembre, et le Dojo le 25.
 
 Présenté par [Frédéric Leguédois](http://twitter.com/f_leguedois)
 
-Les réunions sont souvent vécues comme un mal nécessaire. Longues et ennuyeuses à souhaits, mais aussi chronophages et coûteuses, elles ne rythment pas tant la vie de l'entreprise qu'elles ne la sclérose.
+Les réunions sont souvent vécues comme un mal nécessaire. Longues et ennuyeuses à souhaits, mais aussi chronophages et coûteuses, elles ne rythment pas tant la vie de l'entreprise qu'elles ne la sclérosent.
 
 Loin des recommandations classiques (ordre du jour, compte rendu de réunion...) cette présentation illustrera à partir d'exemples vécus, qu'il est possible de dynamiser grandement les temps d'échanges d'idées.
 
