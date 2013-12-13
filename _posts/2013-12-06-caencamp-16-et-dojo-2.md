@@ -72,9 +72,9 @@ Présenté par [Mathieu Lallemand](http://twitter.com/lalmat)
 
 Venez présenter votre configuration de travail, vos outils, matos, projets en cours et spécialités techniques !
 
-On essayera de présenter de la configuration Vim et shell, des expérimentations (jeu, websocket), du test API et de parler de tous les challenges du moment.
+Nous présenterons les configurations de nos postes de travail, nos expérimentations, projets et challenges du moment.
 
-Nous installerons plusieurs ateliers que vous serez invité à visiter et à animer.
+Nous installerons plusieurs ateliers que vous serez invité à visiter et/ou animer.
 
 Merci d'amener votre machine et présenter ce que vous aimez dans votre travail :)
 
