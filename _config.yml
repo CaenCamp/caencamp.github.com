@@ -6,10 +6,10 @@ name: CaenCamp
 baseurl:
 default_locale: fr
 current_caencamp:
-  title: "CaenCamp #16 :"
-  subtitle: Gestion agile de projet et Marché de Noël
-  date: le 19 décembre à 18:45
+  title: "CaenCamp #17"
+  subtitle: Certifications x509 et atelier démos
+  date: le 30 janvier à 18:30
 current_dojo:
-  title: "Coding Dojo #2 :"
-  subtitle: EmberJS/AngularJS
-  date: le 16 décembre à 17:30
+  title: "Coding Dojo #3"
+  subtitle: Ruby on Rails
+  date: le 13 janvier à 17:30
