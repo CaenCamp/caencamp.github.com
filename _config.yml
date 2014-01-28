@@ -7,9 +7,9 @@ baseurl:
 default_locale: fr
 current_caencamp:
   title: "CaenCamp #17"
-  subtitle: Certifications x509 et atelier démos
+  subtitle: Certifications x509 et Symfony 2
   date: le 30 janvier à 18:30
 current_dojo:
-  title: "Coding Dojo #3"
+  title: "Coding Dojo #4"
   subtitle: Ruby on Rails
-  date: le 13 janvier à 17:30
+  date: courant février
