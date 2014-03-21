@@ -6,9 +6,9 @@ name: CaenCamp
 baseurl:
 default_locale: fr
 current_caencamp:
-  title: "CaenCamp #18"
-  subtitle: Le préprocesseur Sass et l'Asset Pipeline
-  date: le 27 février à 18:30
+  title: "CaenCamp #19"
+  subtitle: Présentation du système GPS
+  date: le 27 mars à 18:30
 current_dojo:
   title: "Coding Dojo #4"
   subtitle: Ruby on Rails
