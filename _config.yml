@@ -6,9 +6,9 @@ name: CaenCamp
 baseurl:
 default_locale: fr
 current_caencamp:
-  title: "CaenCamp #19"
-  subtitle: Présentation du système GPS
-  date: le 27 mars à 18:30
+  title: "CaenCamp #20"
+  subtitle: Apéro-forum sur le thème du télétravail
+  date: le 24 avril à partir de 18h00
 current_dojo:
   title: "Coding Dojo #4"
   subtitle: Ruby on Rails
