@@ -6,9 +6,9 @@ name: CaenCamp
 baseurl:
 default_locale: fr
 current_caencamp:
-  title: "CaenCamp #20"
-  subtitle: Apéro-forum sur le thème du télétravail
-  date: le 24 avril à partir de 18h00
+  title: "CaenCamp #22"
+  subtitle: La performance Web
+  date: le 26 juin à partir de 18h30
 current_dojo:
   title: "Coding Dojo #4"
   subtitle: Ruby on Rails
