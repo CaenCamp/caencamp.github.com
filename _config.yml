@@ -7,9 +7,9 @@ name: CaenCamp
 baseurl:
 default_locale: fr
 current_caencamp:
-  title: "CaenCamp #22"
-  subtitle: La performance Web
-  date: le 26 juin à partir de 18h30
+  title: "CaenCamp #23"
+  subtitle: SVG, format clé du responsive
+  date: le 25 septembre à partir de 18h30
 current_dojo:
   title: "Coding Dojo #4"
   subtitle: Ruby on Rails
