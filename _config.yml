@@ -8,7 +8,7 @@ baseurl:
 default_locale: fr
 current_caencamp:
   title: "CaenCamp #25"
-  subtitle: Programme à venir
+  subtitle: CaenCamp de Noël
   date: le 18 décembre à partir de 18h30
 current_dojo:
   title: "Coding Dojo #4"
