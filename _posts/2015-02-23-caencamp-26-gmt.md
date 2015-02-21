@@ -8,7 +8,7 @@ author_link: http://twitter.com/clm_a
 
 ---
 
-En marge du [printemps agile](http://www.club-agile-caen.fr/printempsagile/), [Matthieu](https://twitter.com/msadouni) et [Pierre-Emmanuel](https://twitter.com/pefringant) Communication nous propose de découvrir en avant-première leur intervention sur le Golden Master Testing.
+En marge du [printemps agile](http://www.club-agile-caen.fr/printempsagile/), [Matthieu](https://twitter.com/msadouni) et [Pierre-Emmanuel](https://twitter.com/pefringant) nous proposent de découvrir en avant-première leur intervention sur le Golden Master Testing.
 
 ##Le Golden Master Testing, c'est quoi ?
 
