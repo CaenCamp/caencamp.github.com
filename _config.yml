@@ -7,9 +7,9 @@ name: CaenCamp
 baseurl:
 default_locale: fr
 current_caencamp:
-  title: "CaenCamp #26"
-  subtitle: Golden Master Testing
-  date: le 26 février à 18h30
+  title: "CaenCamp #27"
+  subtitle: Peut-on travailler proprement avec Wordpress ?
+  date: le 4 juin à 18h30
 current_dojo:
   title: "Coding Dojo #4"
   subtitle: Ruby on Rails
