@@ -8,7 +8,7 @@ author_link: http://twitter.com/msadouni
 
 ---
 
-Wordpress est un outil formidable très utilisé dans le monde. Cette popularité doit certainement beaucoup à la simplicitié de son installation. Mais peut-on l'intégrer dans un flux de production moderne ? Versioning, déploiement automatisé, machine virtuelle, tests... Ce 27ème CaenCamp présenté par [Pierre-Emmanuel](https://twitter.com/pefringant) sera l'occasion de partager les expériences et de débattre sur la pertinence de choisir Wordpress comme outil de travail.
+Wordpress est un outil formidable très utilisé dans le monde. Cette popularité doit certainement beaucoup à la simplicité de son installation. Mais peut-on l'intégrer dans un flux de production moderne ? Versioning, déploiement automatisé, machine virtuelle, tests... Ce 27ème CaenCamp présenté par [Pierre-Emmanuel](https://twitter.com/pefringant) sera l'occasion de partager les expériences et de débattre sur la pertinence de choisir Wordpress comme outil de travail.
 
 ## C'est pour qui ?
 
