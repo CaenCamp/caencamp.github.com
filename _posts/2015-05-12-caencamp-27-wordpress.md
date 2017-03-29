@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #27 : Peut-on travailler proprement avec Wordpress ?"
-layout: default
+layout: post
 categories: Actualités
 author: Matthieu
 author_link: http://twitter.com/msadouni

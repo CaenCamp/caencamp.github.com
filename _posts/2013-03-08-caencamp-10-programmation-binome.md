@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #10 : La programmation en binôme, c'est magique !"
-layout: default
+layout: post
 categories: Actualités
 author: Matthieu
 author_link: http://twitter.com/msadouni

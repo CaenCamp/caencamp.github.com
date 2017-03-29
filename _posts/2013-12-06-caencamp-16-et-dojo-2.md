@@ -1,7 +1,7 @@
 ---
 
 title: "Dojo #2 le 16 et CaenCamp #16 le 19"
-layout: default
+layout: post
 categories: Actualités
 author: Clément
 author_link: http://twitter.com/clm_a

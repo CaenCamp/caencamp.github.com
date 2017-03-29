@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #24 : La programmation fonctionnelle avec Scala"
-layout: default
+layout: post
 categories: Actualités
 author: Clément
 author_link: http://twitter.com/clm_a
