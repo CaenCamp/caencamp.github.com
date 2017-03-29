@@ -5,9 +5,10 @@
           <div style="width:300px;height:225px" class="thumbnail span4"><img src="/caencamp_thumb.jpeg" title="CaenCamp #3" alt="CaenCamp #3" style="width:300px;"/></div>
           <div class="well span4">
             <div style="min-height:200px;">
-              <h2>{{ site.current_caencamp.title }}</h2>
-              <h3>{{ site.current_caencamp.subtitle }}</h3>
-              <h4>{{ site.current_caencamp.date }}</h4>
+              {% for post in site.posts offset: 0 limit: 1 %}
+                <h2>{{ post.title }}</h2>
+                <h4>{{ post.date }}</h4>
+              {% endfor %}
               <h3 style="margin-top:10px;vertical-align:top;margin-bottom:1em;display:inline-block;width:300px">
               	<!--<a href="https://docs.google.com/forms/d/1RyL4F0AcPKbrj2q5pMK-ZnIik8yb9kQZ640PRRbZXgo/viewform" target="_blank">Inscription requise !</a>-->
               	<!-- <a href="https://www.eventbrite.fr/e/inscription-caencamp-15860460063" target="_blank">RSVP CaenCamp</a> -->
