@@ -4,7 +4,6 @@ permalink: /:year/:month/:title/
 paginate: 3
 exclude: []
 name: CaenCamp
-baseurl:
 default_locale: fr
 current_caencamp:
   title: "CaenCamp #27"

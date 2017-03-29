@@ -3,18 +3,13 @@
   <head>
     <meta charset="utf-8" />
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css.css">
+    <link rel="stylesheet" href="/bootstrap.min.css">
+    <link rel="stylesheet" href="/css.css">
   </head>
   <body>
-    {% if site.baseurl == null %}
-      {% assign linkhome = "/" %}
-    {% else %}
-      {% assign linkhome = site.baseurl %}
-    {% endif %}
     <header>
       <div class="container">
-        <h1><a href="{{ linkhome }}">{{ site.name }}</a></h1>
+        <h1><a href="/">{{ site.name }}</a></h1>
       </div>
     </header>
 
