@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #11 : Virtualisez vos environnements de développement avec Vagrant"
-layout: default
+layout: post
 categories: Actualités
 author: Clément
 author_link: http://twitter.com/clm_a

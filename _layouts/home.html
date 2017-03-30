@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row">
+    <div class="span9">
+        <div style="position:relative">
+          <div style="width:300px;height:225px" class="thumbnail span4"><img src="/caencamp_thumb.jpeg" title="CaenCamp #3" alt="CaenCamp #3" style="width:300px;"/></div>
+          <div class="well span4">
+            <div style="min-height:200px;">
+              {% for post in site.posts offset: 0 limit: 1 %}
+                <h2>{{ post.title }}</h2>
+                <h4>{{ post.date }}</h4>
+              {% endfor %}
+              <h3 style="margin-top:10px;vertical-align:top;margin-bottom:1em;display:inline-block;width:300px">
+              <!--<a href="https://docs.google.com/forms/d/1RyL4F0AcPKbrj2q5pMK-ZnIik8yb9kQZ640PRRbZXgo/viewform" target="_blank">Inscription requise !</a>-->
+              <!-- <a href="https://www.eventbrite.fr/e/inscription-caencamp-15860460063" target="_blank">RSVP CaenCamp</a> -->
+              </h3>
+            </div>
+          </div>
+        </div>
+    </div>
+    <div class="span3">
+      <div style="margin-bottom:0.5em;width:220px;" class="thumbnail">
+        <a href="http://www.forum-digital.fr/" target="_blank">
+          <img src="/forum_digital.png" style="width:220px" title="Forum Digital" alt="Logo Forum Digital" style="width:300px;"/>
+        </a>
+      </div>
+      <p>Les CaenCamp ont lieu au <a href="http://www.forum-digital.fr/" target="_blank">Forum Digital</a>, partenaire de l'évènement.</p><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://widget.mailjet.com/2055476b8847e7c67d1139980becf8a6bf9705e8.html" width="228" height="138"></iframe>
+      <div class="social-networks">
+        <a href="http://twitter.com/caencamp" class="twitter-logo">@CaenCamp</a>
+        <a href="http://facebook.com/caencamp" class="facebook-logo">Facebook</a>
+        <a href="https://groups.google.com/forum/?fromgroups#!forum/caencamp" class="google-groupes-logo">Google Group</a>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ content }}

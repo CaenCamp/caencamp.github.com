@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #26 : Golden Master Testing"
-layout: default
+layout: post
 categories: Actualités
 author: Clément
 author_link: http://twitter.com/clm_a

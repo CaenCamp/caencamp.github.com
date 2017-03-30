@@ -1,37 +1,37 @@
 ---
-layout: nil
 is_index: true
+layout: home
 ---
+<div style="margin-top:-40px" class="container">
+  <h2>Actualités</h2><hr />
+</div>
 
-{% include header.html %}
 <div class="container">
   {% for post in paginator.posts %}
-    {% include post.html %}
+    {% include post.html post=post %}
   {% endfor %}
 </div>
 
 <div class="container">
   <div class="pagination">
-  <ul>
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <li class="previous"><a href="{{ linkhome }}">&larr; Articles plus récents</a></li>
+    <ul>
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+          <li class="previous"><a href="{{ linkhome }}">&larr; Articles plus récents</a></li>
+        {% else %}
+          <li class="previous"><a href="/page{{ paginator.previous_page }}">&larr; Articles plus récents</a></li>
+        {% endif %}
       {% else %}
-        <li class="previous"><a href="{{ site.baseurl }}/page{{ paginator.previous_page }}">&larr; Articles plus récents</a></li>
-      {% endif %}
-    {% else %}
         <li class="previous disabled"><a href="#">&larr; Articles plus récents</a></li>
-    {% endif %}
-    <li class="disabled">
-      <a href="#">Page {{ paginator.page }} / {{ paginator.total_pages }}</a>
-    </li>
-    {% if paginator.next_page %}
-      <li class="next"><a href="{{ site.baseurl }}/page{{ paginator.next_page }}">Articles plus anciens &rarr;</a></li>
-    {% else %}
+      {% endif %}
+      <li class="disabled">
+        <a href="#">Page {{ paginator.page }} / {{ paginator.total_pages }}</a>
+      </li>
+      {% if paginator.next_page %}
+        <li class="next"><a href="/page{{ paginator.next_page }}">Articles plus anciens &rarr;</a></li>
+      {% else %}
         <li class="disabled"><a href="#">Articles plus anciens &rarr;</a></li>
-    {% endif %}
-  </ul>
+      {% endif %}
+    </ul>
+  </div>
 </div>
-</div>
-
-{% include footer.html %}

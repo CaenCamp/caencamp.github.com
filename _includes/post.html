@@ -1,42 +1,42 @@
 
   <div class="row">
     {% if page.is_index %}
-      {% assign content = post.content %}
+      {% assign content = include.post.content %}
     {% endif %}
   
     <div class="span2 sidebar">
       
-      <h4>{{ post.date | date: "%d/%m/%Y" }}</h4>
-      {% if post.author_link %}
-        Par <a href="{{post.author_link}}">{{ post.author }}</a>
+      <h4>{{ include.post.date | date: "%d/%m/%Y" }}</h4>
+      {% if include.post.author_link %}
+        Par <a href="{{include.post.author_link}}">{{ include.post.author }}</a>
       {% else %}
-        Par {{ post.author }}
+        Par {{ include.post.author }}
       {% endif %}
-      {% for category in post.categories %}
+      {% for category in include.post.categories %}
         <h6>{{ category }}</h6>
       {% endfor %}
     </div>
     <div class="span10">
       <div style="margin-bottom:0.8em">
-        {% if post.title %}
+        {% if include.post.title %}
           <h3 class="title">
             {% if page.is_index %}
-              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ include.post.url }}">{{ include.post.title }}</a>
             {% else %}
-              {{ post.title}}
+              {{ include.post.title}}
             {% endif %}
           </h3>
         {% endif %}
       </div>
       <div class="post_content">
         {% if page.is_index %}
-          {% if post.summary %}
-            {{ post.summary }}
+          {% if include.post.summary %}
+            {{ include.post.summary }}
           {% else %}
-            {{ content }}
+            {{ include.post.content }}
           {% endif %}
         {% else %}
-          {{ content }}
+          {{ include.post.content }}
         {% endif %}
       </div>
     </div><!--content-->

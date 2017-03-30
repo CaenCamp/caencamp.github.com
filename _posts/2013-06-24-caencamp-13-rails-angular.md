@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #13 : Rails + AngularJS + TDD + Pair Programming"
-layout: default
+layout: post
 categories: Actualités
 author: Clément
 author_link: http://twitter.com/clm_a

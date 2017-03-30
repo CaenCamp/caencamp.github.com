@@ -1,7 +1,7 @@
 ---
 
 title: Introduction au développement par les tests
-layout: default
+layout: post
 categories: Actualités
 author: Clément
 author_link: http://twitter.com/clm_a

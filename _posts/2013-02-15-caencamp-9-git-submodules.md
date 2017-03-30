@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #9 : Git, comprendre les submodules"
-layout: default
+layout: post
 categories: Actualités
 author: Matthieu
 author_link: http://twitter.com/msadouni

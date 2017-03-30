@@ -1,7 +1,7 @@
 ---
 
 title: "CaenCamp #25 : Édition de Noël"
-layout: default
+layout: post
 categories: Actualités
 author: Clément
 author_link: http://twitter.com/clm_a
