@@ -10,7 +10,7 @@ author_link: http://twitter.com/clm_a
 
 En marge du [printemps agile](http://www.club-agile-caen.fr/printempsagile/), [Matthieu](https://twitter.com/msadouni) et [Pierre-Emmanuel](https://twitter.com/pefringant) nous proposent de découvrir en avant-première leur intervention sur le Golden Master Testing.
 
-##Le Golden Master Testing, c'est quoi ?
+## Le Golden Master Testing, c'est quoi ?
 
 > MH Communication est une agence de développement web sur mesure. De la conception à la maintenance, nous accompagnons nos clients pour faire évoluer leur application. Certains projets durant parfois plusieurs années, nous utilisons au quotidien des techniques comme le BDD et le TDD pour assurer la pérennité de nos développements. Cependant, nous sommes amenés à reprendre des projets réalisés par d’autres équipes, ainsi qu’à assurer la maintenance d’anciennes bases de code. Dans ce cas, les tests sont parfois incomplets, souvent inexistants. Comment alors s’assurer que la correction de bugs ou le développement de nouvelles fonctionnalités ne vont pas engendrer des effets de bords indésirables, détectés souvent trop tard, dans d’autres parties critiques de l’application ?
 
@@ -22,7 +22,7 @@ En marge du [printemps agile](http://www.club-agile-caen.fr/printempsagile/), [M
 
 > Le but de cette session est de présenter un retour d’expérience sur l’utilisation du Golden Master Testing, ainsi que différents outils et techniques pour l’appliquer à vos propres projets.
 
-##C'est pour qui ?
+## C'est pour qui ?
 
 Cette session est ouverte à tous. Comme d'habitude, merci d'amener de quoi partager un morceau ou un verre.
 
