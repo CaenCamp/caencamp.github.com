@@ -3,6 +3,7 @@ title: "CaenCamp #28 : Le GraphQL, c'est vraiment la fin du REST ?"
 layout: post
 author: Alexis Janvier
 author_link: https://twitter.com/alexisjanvier
+date: 2017-03-28T18:30:00+0200
 ---
 
 Alexis Janvier fera une intervention sur le GraphQL: parfois présenté comme le
