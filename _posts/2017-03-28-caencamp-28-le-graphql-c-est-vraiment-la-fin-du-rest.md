@@ -10,6 +10,8 @@ Alexis Janvier fera une intervention sur le GraphQL: parfois présenté comme le
 successeur des API Rest, le graphQL fait briller les yeux de nombreux
 développeurs. Mais est-ce que c'est aussi bon que ça ?
 
+<!-- more -->
+
 ## C'est pour qui ?
 
 Cette session est ouverte à tous.

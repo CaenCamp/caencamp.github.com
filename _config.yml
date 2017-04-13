@@ -10,3 +10,5 @@ current_dojo:
   subtitle: Ruby on Rails
   date: courant février
 timezone: Europe/Paris
+future: true
+excerpt_separator: <!-- more -->
