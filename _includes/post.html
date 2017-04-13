@@ -30,8 +30,8 @@
       </div>
       <div class="post_content">
         {% if page.is_index %}
-          {% if include.post.summary %}
-            {{ include.post.summary }}
+          {% if include.excerpt %}
+            {{ include.post.excerpt }}
           {% else %}
             {{ include.post.content }}
           {% endif %}
