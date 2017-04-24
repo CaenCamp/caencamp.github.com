@@ -20,7 +20,7 @@ Cette session est ouverte à tous.
 
 ## Ça se passe où ?
 
-Le lieu n'est pas encore validé.
+Rendez-vous mardi 25 avril à 18h30 au [Forum Digital](http://forum-digital.fr/fr/acces-et-localisation-du-forum-digital-de-caen-colombelles.-gc16.html)
 
 ## Je veux venir !
 
