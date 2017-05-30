@@ -16,4 +16,4 @@ développeurs. Mais est-ce que c'est aussi bon que ça ?
 
 Cette session est ouverte à tous.
 
-Rendez-vous jeudi 4 juin à 18h30 au [Forum Digital](http://forum-digital.fr/fr/acces-et-localisation-du-forum-digital-de-caen-colombelles.-gc16.html)
+Rendez-vous jeudi 28 mars à 18h30 au [Forum Digital](http://forum-digital.fr/fr/acces-et-localisation-du-forum-digital-de-caen-colombelles.-gc16.html)
