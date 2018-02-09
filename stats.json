@@ -121,8 +121,8 @@
       "path---coding-dojo-dojo-1-ruby-on-rails-angularjs-les-mains-dans-le-cambouis-c7877f31133f59eda2a6.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-64f70f95b338e4c96704.js",
-      "component---src-layouts-index-js-64f70f95b338e4c96704.js.map"
+      "component---src-layouts-index-js-44071eef219d55991b14.js",
+      "component---src-layouts-index-js-44071eef219d55991b14.js.map"
     ],
     "path---talks-edition-12-backbone-js": [
       "path---talks-edition-12-backbone-js-e1fbe0d93913d2d6efa1.js",
@@ -243,9 +243,9 @@
       "component---src-pages-talks-js-a27229c56d88511185f2.js.map"
     ],
     "app": [
-      "app-de2b62f09085d75a38cf.js",
+      "app-fcd98366592ca295aa5e.js",
       "build-js-styles.css",
-      "app-de2b62f09085d75a38cf.js.map",
+      "app-fcd98366592ca295aa5e.js.map",
       "build-js-styles.css.map"
     ],
     "path---coding-dojo-dojo-2-emberjs-angularjs": [
