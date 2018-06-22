@@ -1,28 +1,28 @@
 {
   "assetsByChunkName": {
     "path---talks-edition-24-la-programmation-fonctionnelle-avec-scala": [
-      "path---talks-edition-24-la-programmation-fonctionnelle-avec-scala-931d33da8d82335fde79.js",
-      "path---talks-edition-24-la-programmation-fonctionnelle-avec-scala-931d33da8d82335fde79.js.map"
+      "path---talks-edition-24-la-programmation-fonctionnelle-avec-scala-74a2bee488eda9f3eac0.js",
+      "path---talks-edition-24-la-programmation-fonctionnelle-avec-scala-74a2bee488eda9f3eac0.js.map"
     ],
     "path---speakers-matthieu-sadouni": [
-      "path---speakers-matthieu-sadouni-5eaa718a0564ae34bc09.js",
-      "path---speakers-matthieu-sadouni-5eaa718a0564ae34bc09.js.map"
+      "path---speakers-matthieu-sadouni-6d39964c114c7f8b3476.js",
+      "path---speakers-matthieu-sadouni-6d39964c114c7f8b3476.js.map"
     ],
     "path---speakers-korbik": [
-      "path---speakers-korbik-d7a1f3bca2a3890d6a56.js",
-      "path---speakers-korbik-d7a1f3bca2a3890d6a56.js.map"
+      "path---speakers-korbik-405cdcab245e92de719c.js",
+      "path---speakers-korbik-405cdcab245e92de719c.js.map"
     ],
     "path---talks-edition-34-reseaux-neurones-avec-tensorflow-et-keras": [
-      "path---talks-edition-34-reseaux-neurones-avec-tensorflow-et-keras-107fc9481fb1bfd755cd.js",
-      "path---talks-edition-34-reseaux-neurones-avec-tensorflow-et-keras-107fc9481fb1bfd755cd.js.map"
+      "path---talks-edition-34-reseaux-neurones-avec-tensorflow-et-keras-373bc1df625d70fa4fec.js",
+      "path---talks-edition-34-reseaux-neurones-avec-tensorflow-et-keras-373bc1df625d70fa4fec.js.map"
     ],
     "path---talks-edition-25-noel": [
-      "path---talks-edition-25-noel-699d4b5d7701ad2fe2ae.js",
-      "path---talks-edition-25-noel-699d4b5d7701ad2fe2ae.js.map"
+      "path---talks-edition-25-noel-7ed1975bc70e5e00752d.js",
+      "path---talks-edition-25-noel-7ed1975bc70e5e00752d.js.map"
     ],
     "path---speakers-pierre-labadille": [
-      "path---speakers-pierre-labadille-7a73ee74046905829f3e.js",
-      "path---speakers-pierre-labadille-7a73ee74046905829f3e.js.map"
+      "path---speakers-pierre-labadille-2bf5b33a24efc20e3e97.js",
+      "path---speakers-pierre-labadille-2bf5b33a24efc20e3e97.js.map"
     ],
     "component---src-pages-speakers-js": [
       "component---src-pages-speakers-js-ae54d277c1bde511689d.js",
@@ -33,8 +33,8 @@
       "component---src-pages-coding-dojo-js-da01996ad455ef17a68e.js.map"
     ],
     "path---talks-edition-13-rails-angular-tdd-pair-programming": [
-      "path---talks-edition-13-rails-angular-tdd-pair-programming-add0e6795e7d2b07f117.js",
-      "path---talks-edition-13-rails-angular-tdd-pair-programming-add0e6795e7d2b07f117.js.map"
+      "path---talks-edition-13-rails-angular-tdd-pair-programming-3d26df91d852c2387958.js",
+      "path---talks-edition-13-rails-angular-tdd-pair-programming-3d26df91d852c2387958.js.map"
     ],
     "component---src-pages-welcome-us-js": [
       "component---src-pages-welcome-us-js-f29c4bd2b9f91827022c.js",
@@ -45,68 +45,68 @@
       "component---src-pages-index-js-aa5186357c8fbb7563de.js.map"
     ],
     "path---talks-edition-23-svg-format-cle-du-responsive": [
-      "path---talks-edition-23-svg-format-cle-du-responsive-16f12d530ce794cdd08b.js",
-      "path---talks-edition-23-svg-format-cle-du-responsive-16f12d530ce794cdd08b.js.map"
+      "path---talks-edition-23-svg-format-cle-du-responsive-efabcdd0dc885e483592.js",
+      "path---talks-edition-23-svg-format-cle-du-responsive-efabcdd0dc885e483592.js.map"
     ],
     "path---speakers-julien-anne": [
-      "path---speakers-julien-anne-743c559ab4f9ae5326dc.js",
-      "path---speakers-julien-anne-743c559ab4f9ae5326dc.js.map"
+      "path---speakers-julien-anne-9d383981d4e30edba601.js",
+      "path---speakers-julien-anne-9d383981d4e30edba601.js.map"
     ],
     "path---speakers-frederic-leguedois": [
-      "path---speakers-frederic-leguedois-cb22453e9a90c33ee8a9.js",
-      "path---speakers-frederic-leguedois-cb22453e9a90c33ee8a9.js.map"
+      "path---speakers-frederic-leguedois-0cdb93b1de1e5269ff92.js",
+      "path---speakers-frederic-leguedois-0cdb93b1de1e5269ff92.js.map"
     ],
     "path---talks-edition-35-livecoding-refonte-site-caencamp": [
-      "path---talks-edition-35-livecoding-refonte-site-caencamp-bd346a0e514ad1886eb8.js",
-      "path---talks-edition-35-livecoding-refonte-site-caencamp-bd346a0e514ad1886eb8.js.map"
+      "path---talks-edition-35-livecoding-refonte-site-caencamp-0af65f30a795de67c319.js",
+      "path---talks-edition-35-livecoding-refonte-site-caencamp-0af65f30a795de67c319.js.map"
     ],
     "path---talks-edition-31-devenir-un-git-master": [
-      "path---talks-edition-31-devenir-un-git-master-bc3df3269a0db2eb91e6.js",
-      "path---talks-edition-31-devenir-un-git-master-bc3df3269a0db2eb91e6.js.map"
+      "path---talks-edition-31-devenir-un-git-master-c416be902e5ac0587b0d.js",
+      "path---talks-edition-31-devenir-un-git-master-c416be902e5ac0587b0d.js.map"
     ],
     "path---talks-edition-28-le-graphql-cest-vraiment-la-fin-du-rest": [
-      "path---talks-edition-28-le-graphql-cest-vraiment-la-fin-du-rest-8d4af122c3a87a0b2661.js",
-      "path---talks-edition-28-le-graphql-cest-vraiment-la-fin-du-rest-8d4af122c3a87a0b2661.js.map"
+      "path---talks-edition-28-le-graphql-cest-vraiment-la-fin-du-rest-4e247e3e5bae628f4d31.js",
+      "path---talks-edition-28-le-graphql-cest-vraiment-la-fin-du-rest-4e247e3e5bae628f4d31.js.map"
     ],
     "path---speakers-laurence-pelc": [
-      "path---speakers-laurence-pelc-e2b30489c28e272e2e14.js",
-      "path---speakers-laurence-pelc-e2b30489c28e272e2e14.js.map"
+      "path---speakers-laurence-pelc-4320a8728e961196c258.js",
+      "path---speakers-laurence-pelc-4320a8728e961196c258.js.map"
     ],
     "path---talks-edition-17-le-certificat-x-509-et-symfony-2": [
-      "path---talks-edition-17-le-certificat-x-509-et-symfony-2-2a294a3fd38a8ca49fd2.js",
-      "path---talks-edition-17-le-certificat-x-509-et-symfony-2-2a294a3fd38a8ca49fd2.js.map"
+      "path---talks-edition-17-le-certificat-x-509-et-symfony-2-c566a40ac9c64f6f68c9.js",
+      "path---talks-edition-17-le-certificat-x-509-et-symfony-2-c566a40ac9c64f6f68c9.js.map"
     ],
     "path---": [
-      "path----bf04e23eb88d64941b12.js",
-      "path----bf04e23eb88d64941b12.js.map"
+      "path----9aadcf7be8ac48a71c8d.js",
+      "path----9aadcf7be8ac48a71c8d.js.map"
     ],
     "path---talks-edition-38-le-budget-derreurs": [
-      "path---talks-edition-38-le-budget-derreurs-b5b3f6638f39bebeae30.js",
-      "path---talks-edition-38-le-budget-derreurs-b5b3f6638f39bebeae30.js.map"
+      "path---talks-edition-38-le-budget-derreurs-2ed63c0376c42c19ecc3.js",
+      "path---talks-edition-38-le-budget-derreurs-2ed63c0376c42c19ecc3.js.map"
     ],
     "path---talks-edition-26-golden-master-testing": [
-      "path---talks-edition-26-golden-master-testing-55b5baca81073c129cf9.js",
-      "path---talks-edition-26-golden-master-testing-55b5baca81073c129cf9.js.map"
+      "path---talks-edition-26-golden-master-testing-c00e54659971367fb972.js",
+      "path---talks-edition-26-golden-master-testing-c00e54659971367fb972.js.map"
     ],
     "path---speakers-romain-tartiere": [
-      "path---speakers-romain-tartiere-f14c624836fd9b7a7809.js",
-      "path---speakers-romain-tartiere-f14c624836fd9b7a7809.js.map"
+      "path---speakers-romain-tartiere-2dae4a1247d1e7598d0e.js",
+      "path---speakers-romain-tartiere-2dae4a1247d1e7598d0e.js.map"
     ],
     "path---talks-edition-8-initiation-a-sass-compass-et-susy": [
-      "path---talks-edition-8-initiation-a-sass-compass-et-susy-c707e3d3a397f60db866.js",
-      "path---talks-edition-8-initiation-a-sass-compass-et-susy-c707e3d3a397f60db866.js.map"
+      "path---talks-edition-8-initiation-a-sass-compass-et-susy-9c15d13b839df6daa0a7.js",
+      "path---talks-edition-8-initiation-a-sass-compass-et-susy-9c15d13b839df6daa0a7.js.map"
     ],
     "path---speakers-sylvain-zyssman": [
-      "path---speakers-sylvain-zyssman-b0ab0fc1870bc44404c2.js",
-      "path---speakers-sylvain-zyssman-b0ab0fc1870bc44404c2.js.map"
+      "path---speakers-sylvain-zyssman-17bf0838ba25e92aeed8.js",
+      "path---speakers-sylvain-zyssman-17bf0838ba25e92aeed8.js.map"
     ],
     "path---talks-edition-36-introduction-au-devops": [
-      "path---talks-edition-36-introduction-au-devops-96303a8f3bbb728993a2.js",
-      "path---talks-edition-36-introduction-au-devops-96303a8f3bbb728993a2.js.map"
+      "path---talks-edition-36-introduction-au-devops-326b86342203747f67ed.js",
+      "path---talks-edition-36-introduction-au-devops-326b86342203747f67ed.js.map"
     ],
     "path---talks-edition-30-premiers-pas-avec-docker": [
-      "path---talks-edition-30-premiers-pas-avec-docker-42be9104cf626e56807f.js",
-      "path---talks-edition-30-premiers-pas-avec-docker-42be9104cf626e56807f.js.map"
+      "path---talks-edition-30-premiers-pas-avec-docker-9be3d0e89dcb2e9b57b5.js",
+      "path---talks-edition-30-premiers-pas-avec-docker-9be3d0e89dcb2e9b57b5.js.map"
     ],
     "path---welcome-us": [
       "path---welcome-us-a0e39f21c11f6a62c5ab.js",
@@ -117,68 +117,68 @@
       "component---src-templates-dojo-js-64030b9be50471263387.js.map"
     ],
     "path---talks-edition-14-tour-dhorizon-et-deploiements-automatises": [
-      "path---talks-edition-14-tour-dhorizon-et-deploiements-automatises-95c1d5759e2ee94ad0d0.js",
-      "path---talks-edition-14-tour-dhorizon-et-deploiements-automatises-95c1d5759e2ee94ad0d0.js.map"
+      "path---talks-edition-14-tour-dhorizon-et-deploiements-automatises-4b1fea56454f741b05bc.js",
+      "path---talks-edition-14-tour-dhorizon-et-deploiements-automatises-4b1fea56454f741b05bc.js.map"
     ],
     "path---speakers-clement-alexandre": [
-      "path---speakers-clement-alexandre-2d44d5232a1ff5114d6c.js",
-      "path---speakers-clement-alexandre-2d44d5232a1ff5114d6c.js.map"
+      "path---speakers-clement-alexandre-149ada48e67e065cab31.js",
+      "path---speakers-clement-alexandre-149ada48e67e065cab31.js.map"
     ],
     "path---coding-dojo-dojo-1-ruby-on-rails-angularjs-les-mains-dans-le-cambouis": [
-      "path---coding-dojo-dojo-1-ruby-on-rails-angularjs-les-mains-dans-le-cambouis-4841602558cb12bed307.js",
-      "path---coding-dojo-dojo-1-ruby-on-rails-angularjs-les-mains-dans-le-cambouis-4841602558cb12bed307.js.map"
+      "path---coding-dojo-dojo-1-ruby-on-rails-angularjs-les-mains-dans-le-cambouis-dd41798285ec317710f0.js",
+      "path---coding-dojo-dojo-1-ruby-on-rails-angularjs-les-mains-dans-le-cambouis-dd41798285ec317710f0.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-db7bd2a2c79e6066c204.js",
-      "component---src-layouts-index-js-db7bd2a2c79e6066c204.js.map"
+      "component---src-layouts-index-js-30f3fb75913ddaee46ad.js",
+      "component---src-layouts-index-js-30f3fb75913ddaee46ad.js.map"
     ],
     "path---talks-edition-12-backbone-js": [
-      "path---talks-edition-12-backbone-js-3b5c09d8e237e626f256.js",
-      "path---talks-edition-12-backbone-js-3b5c09d8e237e626f256.js.map"
+      "path---talks-edition-12-backbone-js-bbe7f9e8c5ab74639539.js",
+      "path---talks-edition-12-backbone-js-bbe7f9e8c5ab74639539.js.map"
     ],
     "path---talks-edition-32-tester-son-code-javascript-avec-jest": [
-      "path---talks-edition-32-tester-son-code-javascript-avec-jest-1ea0dc1783f7eabe79c6.js",
-      "path---talks-edition-32-tester-son-code-javascript-avec-jest-1ea0dc1783f7eabe79c6.js.map"
+      "path---talks-edition-32-tester-son-code-javascript-avec-jest-babc7d17edff34bb0b52.js",
+      "path---talks-edition-32-tester-son-code-javascript-avec-jest-babc7d17edff34bb0b52.js.map"
     ],
     "component---src-templates-speaker-js": [
       "component---src-templates-speaker-js-61c624aaaf2b99bd5062.js",
       "component---src-templates-speaker-js-61c624aaaf2b99bd5062.js.map"
     ],
     "path---talks-edition-10-la-programmation-en-binome-cest-magique": [
-      "path---talks-edition-10-la-programmation-en-binome-cest-magique-fb4c1903901ff38b6fc6.js",
-      "path---talks-edition-10-la-programmation-en-binome-cest-magique-fb4c1903901ff38b6fc6.js.map"
+      "path---talks-edition-10-la-programmation-en-binome-cest-magique-6d236c8d24dbdb108bc5.js",
+      "path---talks-edition-10-la-programmation-en-binome-cest-magique-6d236c8d24dbdb108bc5.js.map"
     ],
     "path---index": [
-      "path---index-29a1ef29101c1d2360aa.js",
-      "path---index-29a1ef29101c1d2360aa.js.map"
+      "path---index-9fb399056b4d00b85996.js",
+      "path---index-9fb399056b4d00b85996.js.map"
     ],
     "component---src-templates-talk-js": [
       "component---src-templates-talk-js-fac134096aa2f035d6eb.js",
       "component---src-templates-talk-js-fac134096aa2f035d6eb.js.map"
     ],
     "path---talks-edition-15-se-reunir-et-paiements": [
-      "path---talks-edition-15-se-reunir-et-paiements-b723f8222f09c1f0fd04.js",
-      "path---talks-edition-15-se-reunir-et-paiements-b723f8222f09c1f0fd04.js.map"
+      "path---talks-edition-15-se-reunir-et-paiements-c252744740fcdb6d2f94.js",
+      "path---talks-edition-15-se-reunir-et-paiements-c252744740fcdb6d2f94.js.map"
     ],
     "path---speakers-kevin-bizien": [
-      "path---speakers-kevin-bizien-5cb6bf3d7a28de0a23a7.js",
-      "path---speakers-kevin-bizien-5cb6bf3d7a28de0a23a7.js.map"
+      "path---speakers-kevin-bizien-3205ad9ab3efc48dd59b.js",
+      "path---speakers-kevin-bizien-3205ad9ab3efc48dd59b.js.map"
     ],
     "path---speakers-laurent-jager": [
-      "path---speakers-laurent-jager-229067b8e93fa46c3e53.js",
-      "path---speakers-laurent-jager-229067b8e93fa46c3e53.js.map"
+      "path---speakers-laurent-jager-316dc3855ab9078d18fe.js",
+      "path---speakers-laurent-jager-316dc3855ab9078d18fe.js.map"
     ],
     "path---speakers-matthieu-hebert": [
-      "path---speakers-matthieu-hebert-e32522272440ecda7e3d.js",
-      "path---speakers-matthieu-hebert-e32522272440ecda7e3d.js.map"
+      "path---speakers-matthieu-hebert-4b5ae3a0dbd82c4d2f29.js",
+      "path---speakers-matthieu-hebert-4b5ae3a0dbd82c4d2f29.js.map"
     ],
     "path---talks-edition-19-presentation-du-systeme-gps": [
-      "path---talks-edition-19-presentation-du-systeme-gps-168c14840592d98802b4.js",
-      "path---talks-edition-19-presentation-du-systeme-gps-168c14840592d98802b4.js.map"
+      "path---talks-edition-19-presentation-du-systeme-gps-f558440f368e4a088070.js",
+      "path---talks-edition-19-presentation-du-systeme-gps-f558440f368e4a088070.js.map"
     ],
     "path---talks-edition-22-la-performance-web": [
-      "path---talks-edition-22-la-performance-web-de01c871d2948cf41750.js",
-      "path---talks-edition-22-la-performance-web-de01c871d2948cf41750.js.map"
+      "path---talks-edition-22-la-performance-web-4f3c93e24bbac86b2f07.js",
+      "path---talks-edition-22-la-performance-web-4f3c93e24bbac86b2f07.js.map"
     ],
     "commons": [
       "commons-2606aac1248de59d1ce2.js",
@@ -187,138 +187,142 @@
       "build-js-styles.css.map"
     ],
     "path---speakers-kevin-maschtaler": [
-      "path---speakers-kevin-maschtaler-2d6b2083962d4d562c31.js",
-      "path---speakers-kevin-maschtaler-2d6b2083962d4d562c31.js.map"
+      "path---speakers-kevin-maschtaler-e53ff5a3131d029f23df.js",
+      "path---speakers-kevin-maschtaler-e53ff5a3131d029f23df.js.map"
     ],
     "path---talks-edition-11-virtualisez-vos-environnements-de-developpement-avec-vagrant": [
-      "path---talks-edition-11-virtualisez-vos-environnements-de-developpement-avec-vagrant-c7002eaf8c608d77ba17.js",
-      "path---talks-edition-11-virtualisez-vos-environnements-de-developpement-avec-vagrant-c7002eaf8c608d77ba17.js.map"
+      "path---talks-edition-11-virtualisez-vos-environnements-de-developpement-avec-vagrant-8b2f3455e5f33ee64947.js",
+      "path---talks-edition-11-virtualisez-vos-environnements-de-developpement-avec-vagrant-8b2f3455e5f33ee64947.js.map"
     ],
     "path---talks-edition-16-gestion-agile-de-projet-et-marche-de-noel": [
-      "path---talks-edition-16-gestion-agile-de-projet-et-marche-de-noel-c680c50ffe2eabf1770f.js",
-      "path---talks-edition-16-gestion-agile-de-projet-et-marche-de-noel-c680c50ffe2eabf1770f.js.map"
+      "path---talks-edition-16-gestion-agile-de-projet-et-marche-de-noel-bbf3214d464a9d326394.js",
+      "path---talks-edition-16-gestion-agile-de-projet-et-marche-de-noel-bbf3214d464a9d326394.js.map"
     ],
     "path---speakers-vincent-regnard": [
-      "path---speakers-vincent-regnard-23eb9fdd12d89fe4d154.js",
-      "path---speakers-vincent-regnard-23eb9fdd12d89fe4d154.js.map"
+      "path---speakers-vincent-regnard-97e3077277f6d2cabad4.js",
+      "path---speakers-vincent-regnard-97e3077277f6d2cabad4.js.map"
     ],
     "path---call-for-speakers": [
       "path---call-for-speakers-a0e39f21c11f6a62c5ab.js",
       "path---call-for-speakers-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---talks": [
-      "path---talks-d91bfeedc27d8ba99b3a.js",
-      "path---talks-d91bfeedc27d8ba99b3a.js.map"
+      "path---talks-a3dfe7d1e6df67187b96.js",
+      "path---talks-a3dfe7d1e6df67187b96.js.map"
     ],
     "path---talks-edition-7-git-pratique": [
-      "path---talks-edition-7-git-pratique-e4f40283bc09d87b2626.js",
-      "path---talks-edition-7-git-pratique-e4f40283bc09d87b2626.js.map"
+      "path---talks-edition-7-git-pratique-0a70855738398375004a.js",
+      "path---talks-edition-7-git-pratique-0a70855738398375004a.js.map"
+    ],
+    "path---speakers-guillaume-darbonne": [
+      "path---speakers-guillaume-darbonne-9e64b2143569c596dda6.js",
+      "path---speakers-guillaume-darbonne-9e64b2143569c596dda6.js.map"
     ],
     "path---speakers-alexis-janvier": [
-      "path---speakers-alexis-janvier-9262972c950b7b9c77ad.js",
-      "path---speakers-alexis-janvier-9262972c950b7b9c77ad.js.map"
+      "path---speakers-alexis-janvier-08a2889b85fd6e1b3a5a.js",
+      "path---speakers-alexis-janvier-08a2889b85fd6e1b3a5a.js.map"
     ],
     "path---talks-edition-20-aperoforum-sur-le-theme-du-teletravail": [
-      "path---talks-edition-20-aperoforum-sur-le-theme-du-teletravail-f1d1cffdd9718eaa699c.js",
-      "path---talks-edition-20-aperoforum-sur-le-theme-du-teletravail-f1d1cffdd9718eaa699c.js.map"
+      "path---talks-edition-20-aperoforum-sur-le-theme-du-teletravail-0b8f929dca245fc81fbf.js",
+      "path---talks-edition-20-aperoforum-sur-le-theme-du-teletravail-0b8f929dca245fc81fbf.js.map"
     ],
     "path---speakers-jonathan-petitcolas": [
-      "path---speakers-jonathan-petitcolas-4d5c375a2a28a333f7d3.js",
-      "path---speakers-jonathan-petitcolas-4d5c375a2a28a333f7d3.js.map"
+      "path---speakers-jonathan-petitcolas-db98ae8e9a4e592f219e.js",
+      "path---speakers-jonathan-petitcolas-db98ae8e9a4e592f219e.js.map"
     ],
     "component---src-pages-partnerships-js": [
       "component---src-pages-partnerships-js-c26aedf0b9f4754f5a35.js",
       "component---src-pages-partnerships-js-c26aedf0b9f4754f5a35.js.map"
     ],
     "path---speakers-jeremy-leherpeur": [
-      "path---speakers-jeremy-leherpeur-3ac30caa360d4d7d2b8e.js",
-      "path---speakers-jeremy-leherpeur-3ac30caa360d4d7d2b8e.js.map"
+      "path---speakers-jeremy-leherpeur-5624b3e12db85e5c6569.js",
+      "path---speakers-jeremy-leherpeur-5624b3e12db85e5c6569.js.map"
     ],
     "path---coding-dojo": [
-      "path---coding-dojo-44b4a2ed42f8d7a0ef6d.js",
-      "path---coding-dojo-44b4a2ed42f8d7a0ef6d.js.map"
+      "path---coding-dojo-ac643be9cb1eaa78168a.js",
+      "path---coding-dojo-ac643be9cb1eaa78168a.js.map"
     ],
     "path---talks-edition-6-introduction-au-developpement-par-les-tests": [
-      "path---talks-edition-6-introduction-au-developpement-par-les-tests-b47f0810c3ccb35819ad.js",
-      "path---talks-edition-6-introduction-au-developpement-par-les-tests-b47f0810c3ccb35819ad.js.map"
+      "path---talks-edition-6-introduction-au-developpement-par-les-tests-173f092a4bca32226ca0.js",
+      "path---talks-edition-6-introduction-au-developpement-par-les-tests-173f092a4bca32226ca0.js.map"
     ],
     "path---speakers-clement-lebiez": [
-      "path---speakers-clement-lebiez-097419c98172efbaae19.js",
-      "path---speakers-clement-lebiez-097419c98172efbaae19.js.map"
+      "path---speakers-clement-lebiez-71f2a65dc528f7ae7390.js",
+      "path---speakers-clement-lebiez-71f2a65dc528f7ae7390.js.map"
     ],
     "path---speakers-antoine-lelaisant": [
-      "path---speakers-antoine-lelaisant-5b5b87da7f42555dd7cb.js",
-      "path---speakers-antoine-lelaisant-5b5b87da7f42555dd7cb.js.map"
+      "path---speakers-antoine-lelaisant-4f8a5686061bd649435a.js",
+      "path---speakers-antoine-lelaisant-4f8a5686061bd649435a.js.map"
     ],
     "path---speakers": [
-      "path---speakers-79f15fe5b7e0a4e5f849.js",
-      "path---speakers-79f15fe5b7e0a4e5f849.js.map"
+      "path---speakers-8b4a6b77c9cbe31acf70.js",
+      "path---speakers-8b4a6b77c9cbe31acf70.js.map"
     ],
     "component---src-pages-talks-js": [
       "component---src-pages-talks-js-64778891bf7f93c85c51.js",
       "component---src-pages-talks-js-64778891bf7f93c85c51.js.map"
     ],
     "app": [
-      "app-b63f2d24e9f5c4030881.js",
+      "app-2958cda59d6e47c7add7.js",
       "build-js-styles.css",
-      "app-b63f2d24e9f5c4030881.js.map",
+      "app-2958cda59d6e47c7add7.js.map",
       "build-js-styles.css.map"
     ],
     "path---coding-dojo-dojo-2-emberjs-angularjs": [
-      "path---coding-dojo-dojo-2-emberjs-angularjs-bbe104f1ae131389d657.js",
-      "path---coding-dojo-dojo-2-emberjs-angularjs-bbe104f1ae131389d657.js.map"
+      "path---coding-dojo-dojo-2-emberjs-angularjs-9282679ea4f63c8b769a.js",
+      "path---coding-dojo-dojo-2-emberjs-angularjs-9282679ea4f63c8b769a.js.map"
     ],
     "path---talks-edition-37-architecture-css-avec-itcss-et-inuitcss": [
-      "path---talks-edition-37-architecture-css-avec-itcss-et-inuitcss-5dca5e7541545b46d0c4.js",
-      "path---talks-edition-37-architecture-css-avec-itcss-et-inuitcss-5dca5e7541545b46d0c4.js.map"
+      "path---talks-edition-37-architecture-css-avec-itcss-et-inuitcss-ff1e6f98cbd2800d98f0.js",
+      "path---talks-edition-37-architecture-css-avec-itcss-et-inuitcss-ff1e6f98cbd2800d98f0.js.map"
     ],
     "path---talks-edition-18-le-preprocesseur-sass-et-lasset-pipeline": [
-      "path---talks-edition-18-le-preprocesseur-sass-et-lasset-pipeline-594a62a805228c71ba08.js",
-      "path---talks-edition-18-le-preprocesseur-sass-et-lasset-pipeline-594a62a805228c71ba08.js.map"
+      "path---talks-edition-18-le-preprocesseur-sass-et-lasset-pipeline-0b5dd7d3df2b06cc30c4.js",
+      "path---talks-edition-18-le-preprocesseur-sass-et-lasset-pipeline-0b5dd7d3df2b06cc30c4.js.map"
     ],
     "path---partnerships": [
       "path---partnerships-a0e39f21c11f6a62c5ab.js",
       "path---partnerships-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---talks-edition-29-architecture-flux-alternative-au-mvc": [
-      "path---talks-edition-29-architecture-flux-alternative-au-mvc-e6631970469aa7d68bf8.js",
-      "path---talks-edition-29-architecture-flux-alternative-au-mvc-e6631970469aa7d68bf8.js.map"
+      "path---talks-edition-29-architecture-flux-alternative-au-mvc-24de52a1dc1b618d4c46.js",
+      "path---talks-edition-29-architecture-flux-alternative-au-mvc-24de52a1dc1b618d4c46.js.map"
     ],
     "path---talks-edition-33-infrastructures-a-cles-publiques": [
-      "path---talks-edition-33-infrastructures-a-cles-publiques-90a3b117bff2a3a3cc26.js",
-      "path---talks-edition-33-infrastructures-a-cles-publiques-90a3b117bff2a3a3cc26.js.map"
+      "path---talks-edition-33-infrastructures-a-cles-publiques-31285ff06f00b2763c7c.js",
+      "path---talks-edition-33-infrastructures-a-cles-publiques-31285ff06f00b2763c7c.js.map"
     ],
     "path---talks-edition-27-peut-on-travailler-proprement-avec-wordpress": [
-      "path---talks-edition-27-peut-on-travailler-proprement-avec-wordpress-2af2e3fe6f6f55662565.js",
-      "path---talks-edition-27-peut-on-travailler-proprement-avec-wordpress-2af2e3fe6f6f55662565.js.map"
+      "path---talks-edition-27-peut-on-travailler-proprement-avec-wordpress-d26111a9e05b0ac558c5.js",
+      "path---talks-edition-27-peut-on-travailler-proprement-avec-wordpress-d26111a9e05b0ac558c5.js.map"
     ],
     "path---speakers-mathieu-lallemand": [
-      "path---speakers-mathieu-lallemand-620ec8c5c8ab25ef61b2.js",
-      "path---speakers-mathieu-lallemand-620ec8c5c8ab25ef61b2.js.map"
+      "path---speakers-mathieu-lallemand-a2e113a13209334390e9.js",
+      "path---speakers-mathieu-lallemand-a2e113a13209334390e9.js.map"
     ],
     "path---talks-edition-9-git-comprendre-les-submodules": [
-      "path---talks-edition-9-git-comprendre-les-submodules-af9e38da28ff768b01c6.js",
-      "path---talks-edition-9-git-comprendre-les-submodules-af9e38da28ff768b01c6.js.map"
+      "path---talks-edition-9-git-comprendre-les-submodules-76194fa5fc66753565f1.js",
+      "path---talks-edition-9-git-comprendre-les-submodules-76194fa5fc66753565f1.js.map"
     ],
     "path---speakers-pierre-emmanuel-fringant": [
-      "path---speakers-pierre-emmanuel-fringant-0efc4ce81fecff5babe4.js",
-      "path---speakers-pierre-emmanuel-fringant-0efc4ce81fecff5babe4.js.map"
+      "path---speakers-pierre-emmanuel-fringant-f4a7c4abd3d424331f15.js",
+      "path---speakers-pierre-emmanuel-fringant-f4a7c4abd3d424331f15.js.map"
     ],
     "path---speakers-gael-reyrol": [
-      "path---speakers-gael-reyrol-2203f3384779b4f263d6.js",
-      "path---speakers-gael-reyrol-2203f3384779b4f263d6.js.map"
+      "path---speakers-gael-reyrol-6a3a7d3a13601dc52bcb.js",
+      "path---speakers-gael-reyrol-6a3a7d3a13601dc52bcb.js.map"
     ],
     "component---src-pages-call-for-speakers-js": [
       "component---src-pages-call-for-speakers-js-37ebed4a534ce3060adb.js",
       "component---src-pages-call-for-speakers-js-37ebed4a534ce3060adb.js.map"
     ],
     "path---talks-edition-39-recherche-fulltext-avec-elasticsearch": [
-      "path---talks-edition-39-recherche-fulltext-avec-elasticsearch-b1903e80d1e6cfd58a98.js",
-      "path---talks-edition-39-recherche-fulltext-avec-elasticsearch-b1903e80d1e6cfd58a98.js.map"
+      "path---talks-edition-39-recherche-fulltext-avec-elasticsearch-8f02f344c1340d9c4678.js",
+      "path---talks-edition-39-recherche-fulltext-avec-elasticsearch-8f02f344c1340d9c4678.js.map"
     ],
     "path---talks-edition-5-versioning-avec-git": [
-      "path---talks-edition-5-versioning-avec-git-ea9824c339c39f202f58.js",
-      "path---talks-edition-5-versioning-avec-git-ea9824c339c39f202f58.js.map"
+      "path---talks-edition-5-versioning-avec-git-186e966bf2a723c108cf.js",
+      "path---talks-edition-5-versioning-avec-git-186e966bf2a723c108cf.js.map"
     ]
   }
 }
